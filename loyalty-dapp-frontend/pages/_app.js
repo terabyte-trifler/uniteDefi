@@ -1,7 +1,7 @@
 // pages/_app.js
 import '../styles/globals.css';
 import '@rainbow-me/rainbowkit/styles.css';
-
+//added 
 import {
   getDefaultConfig,
   RainbowKitProvider
