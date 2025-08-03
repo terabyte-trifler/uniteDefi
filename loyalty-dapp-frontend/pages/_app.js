@@ -24,7 +24,7 @@ const config = getDefaultConfig({
   chains: [sepolia],
   ssr: false,
 });
-
+// new 
 export default function App({ Component, pageProps }) {
   return (
     <QueryClientProvider client={queryClient}>
